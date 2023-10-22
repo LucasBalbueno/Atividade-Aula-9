@@ -1,0 +1,20 @@
+.estreiam__hoje {
+    color: darkred;
+}
+
+.estreiam__amanha {
+    color: darkblue;
+}
+
+.link {
+    text-decoration: none;
+    color: seagreen;
+}
+
+.título__cidade, .estreiam__hoje, .estreiam__amanha {
+    font-size: 20px;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
